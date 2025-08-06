@@ -6,4 +6,4 @@ The project involved scraping through SpaceX data and filtering it out to obtain
 After this exploratory data analysis (EDA) and data visualization was carried out to gain some insights for the data and prepare it for modelling.
 The data underwent preprocessing in order to standardize features and one-hot encoding was applied to categorical columns in order to standardize them into numerical format.
 From here on the data was split into the training set and testing set with the split being between the dataset's features and the target varIable.
-After splitting the data was trained under 3 classification model systems: Logistic Regression, tree classification and support vector machines (SVMs).
+After splitting the data was trained under 3 classification model systems: Logistic Regression, Decision Tree Classifier and Support Vector Machines (SVMs).
